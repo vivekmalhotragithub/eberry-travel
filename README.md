@@ -16,9 +16,6 @@ To build
 mvn clean install
 ```
 
-To run integration tests
-```
-```
 
 # To run application in Docker
 It is required that application is built in prev steps
