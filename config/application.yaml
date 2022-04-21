@@ -1,0 +1,9 @@
+server:
+  port: 16001
+  shutdown: graceful
+  lifecycle:
+    timeout-per-shutdown-phase: 20s
+
+
+user:
+  initialBalance: 1000
